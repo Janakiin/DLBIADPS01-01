@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xslt"?>
+<!DOCTYPE movies SYSTEM "movies.dtd">
+<movies>
+	<movie>
+		<title>The Roses</title>
+		<director>Jay Roach</director>
+		<genre>Komödie/Satire</genre>
+		<releaseDate>2025</releaseDate>
+		<rating>7.0</rating>
+	</movie>
+	<movie>
+		<title>Life of Chuck</title>
+		<director>Mike Flanagan</director>
+		<genre>Drama/Science-Fiction</genre>
+		<releaseDate>2024</releaseDate>
+		<rating>7.4</rating>
+	</movie>
+	<movie>
+		<title>The King</title>
+		<director>David Michôd</director>
+		<genre>Drama/Geschichte</genre>
+		<releaseDate>2019</releaseDate>
+		<rating>7.3</rating>
+	</movie>
+</movies>
